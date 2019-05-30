@@ -1,0 +1,26 @@
+{
+  "name": "tqplay_server",
+  "version": "1.0.0",
+  "description": "server for tq_play",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demistry/TQ-Server.git"
+  },
+  "keywords": [
+    "cloud",
+    "messaging"
+  ],
+  "author": "David Ilenwabor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demistry/TQ-Server/issues"
+  },
+  "homepage": "https://github.com/demistry/TQ-Server#readme",
+  "dependencies": {
+    "firebase-admin": "^8.0.0"
+  }
+}
